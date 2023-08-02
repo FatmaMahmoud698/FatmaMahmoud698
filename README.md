@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatma Mahmoud</h1>
-<h3 align="center">A software engineer (react native and nodejs) in Egypt.</h3>
+<h3 align="center">A software engineer (nodejs and blockchain) in Egypt.</h3>
 
 - 💬 Ask me about **react native, nodejs, mysql, hyperledger fabric, ethereum**
 
