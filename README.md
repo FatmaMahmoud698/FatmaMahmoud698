@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatma Mahmoud</h1>
 <h3 align="center">A software engineer (react native and nodejs) in Egypt.</h3>
 
-- 🔭 I’m currently working on [Amanleek](https://www.linkedin.com/company/amanleek/)
-
-- 💬 Ask me about **react native, nodejs, php, mysql**
+- 💬 Ask me about **react native, nodejs, mysql, hyperledger fabric, ethereum**
 
 - 📫 How to reach me **engfatmamahmoud@gmail.com**
 
